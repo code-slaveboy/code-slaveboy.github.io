@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>建站第一天，开心</title>
-      <link href="/2024/06/26/firstblog/"/>
-      <url>/2024/06/26/firstblog/</url>
+      <title>心得</title>
+      <link href="/2024/06/26/%E5%BF%83%E5%BE%97/"/>
+      <url>/2024/06/26/%E5%BF%83%E5%BE%97/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><img src="/2024/06/26/%E5%BF%83%E5%BE%97/13.png" alt="图片"></p>]]></content>
       
       
       
@@ -23,13 +23,19 @@
     
     
     <entry>
-      <title>建站第一天，开心</title>
-      <link href="/2024/06/26/index/"/>
-      <url>/2024/06/26/index/</url>
+      <title></title>
+      <link href="/2024/06/26/%E7%AC%AC%E4%B8%80%E7%AF%87blog/"/>
+      <url>/2024/06/26/%E7%AC%AC%E4%B8%80%E7%AF%87blog/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h1><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><h1 id="空格：-一级标题，"><a href="#空格：-一级标题，" class="headerlink" title="+空格： 一级标题，"></a>+空格： 一级标题，</h1><h2 id="空格：-二级标题"><a href="#空格：-二级标题" class="headerlink" title="+空格： 二级标题"></a>+空格： 二级标题</h2><h3 id="空格：三级鸟啼"><a href="#空格：三级鸟啼" class="headerlink" title="+空格：三级鸟啼"></a>+空格：三级鸟啼</h3><h2 id="引用块"><a href="#引用块" class="headerlink" title="引用块"></a>引用块</h2><p>大于号+内容</p><blockquote><p>引用</p><blockquote><p>可以套娃</p><blockquote><p>俄罗斯</p></blockquote></blockquote></blockquote><h2 id="代码段"><a href="#代码段" class="headerlink" title="代码段"></a>代码段</h2><p>‘markdown’</p><h2 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h2><p>三个单引号+编程语言类型</p><p>‘’’c  </p><p>include<stdio.h><br>int main()<br>{<br>return 0;<br>}</stdio.h></p><p>‘’’</p><h2 id="公式段-latex"><a href="#公式段-latex" class="headerlink" title="公式段(latex)"></a>公式段(latex)</h2><p>$\beta \times x$</p><h2 id="公式块"><a href="#公式块" class="headerlink" title="公式块"></a>公式块</h2><script type="math/tex; mode=display">\int_{1}*{2}{4alph^2}dx\text{注释}</script><h2 id="斜体和粗体"><a href="#斜体和粗体" class="headerlink" title="斜体和粗体"></a>斜体和粗体</h2><p>单✳号：斜体双星号是粗体</p><p><em>很帅</em><br><strong>超级帅</strong></p><h2 id="分隔符"><a href="#分隔符" class="headerlink" title="分隔符"></a>分隔符</h2><h2 id="四个减号"><a href="#四个减号" class="headerlink" title="四个减号"></a>四个减号</h2><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><div class="table-container"><table><thead><tr><th>一</th><th>二</th><th>三</th><th>四</th></tr></thead><tbody><tr><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>a</td><td>b</td><td>c</td><td>d</td></tr></tbody></table></div><p>分点<br>-+空格</p><ul><li>第一</li><li>第二</li><li>第三</li></ul><h2 id="图片插入"><a href="#图片插入" class="headerlink" title="图片插入"></a>图片插入</h2><ul><li><strong>html写法</strong><br><img scr="01.png" width="height="></li></ul><p><img scr="01.png" style="“50%”"></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> markdown 语法 </tag>
+            
+        </tags>
       
     </entry>
     
